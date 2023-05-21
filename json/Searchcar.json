@@ -1,0 +1,35 @@
+ [
+    {
+      "sno": 1,
+      "carName": "Toyota Camry",
+      "model": "LE",
+      "year": 2018,
+      "color": "Silver",
+      "price": 22000
+    },
+    {
+      "sno": 2,
+      "carName": "Honda Civic",
+      "model": "EX",
+      "year": 2019,
+      "color": "White",
+      "price": 18000
+    },
+    {
+      "sno": 3,
+      "carName": "Ford Mustang",
+      "model": "GT",
+      "year": 2020,
+      "color": "Red",
+      "price": 35000
+    },
+    {
+      "sno": 4,
+      "carName": "Chevrolet Corvette",
+      "model": "Stingray",
+      "year": 2021,
+      "color": "Black",
+      "price": 60000
+    }
+  ]
+  

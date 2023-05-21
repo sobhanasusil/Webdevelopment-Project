@@ -1,0 +1,234 @@
+.head1{
+    background-color: rgb(93, 210, 246);
+    height: 80px;
+}
+
+
+/* nave.css */
+.nav-bg-color {
+    background-color: #ff0000; /* Replace with your desired color code */
+}
+
+
+#f1{
+    display: inline-block;
+    padding-left: 20px;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+#f01{
+    margin-top: 20px;
+}
+
+.head01{
+    margin-left: 1000px;
+    margin-top: -50px;
+    
+}
+
+.head2{
+    background-color: rgb(18, 55, 136);
+    position: sticky;
+    top: 0px;
+    height: 80px;
+    
+}
+#f2{
+    display: inline-block;
+    padding-left: 20px;
+    font-size: 15px;
+    font-family: sans-serif;
+    
+}
+#f2:hover{
+    color: red;
+}
+.alinhead{
+    margin-left: 1100px;
+
+}
+.topic1{
+    margin-left: 500px;
+}
+.head3{
+    background-image: url(./img/car-2.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 847px;
+    margin-top: -20px;
+}
+.logbox{
+    background-color: rgb(220, 234, 234);
+    height: 550px;
+    width: 450px;
+    border-radius: 10px;
+    margin-left: 900px;
+    margin-top: -700px;
+}
+.Box01{
+    width: 350px;
+    height: 40px;
+    margin-left: 40px;
+    border-radius: 5px;
+    border: 1px solid rgb(155, 153, 153);
+    font-size: larger ;
+    padding-left: 10px;
+   
+    
+}
+.pad{
+    padding-top: 30px;
+   
+}
+.box2{
+    background-color: green;
+    margin-left: 140px;
+    height: 40px;
+    width: 150px;
+    border-radius: 50px;
+    color: aliceblue;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: larger;
+    border-color: non;
+}
+.topic1{
+    color: white;
+    font-family: sans-serif;
+    
+}
+#box20{
+    text-align: center;
+    padding-top: 50px;
+
+}
+#box21{
+ display: inline;
+ font-family: sans-serif;
+ font-size: xx-large;
+}
+.box21{
+    color: red;
+}
+#box22{
+    text-align: center;
+    font-family: sans-serif;
+}
+.head4{
+    background-color: rgb(241, 245, 245);
+    margin-top: 50px;
+    height: 700px;
+   
+}
+.head041{
+    
+height: 280px;
+width: 350px;
+border-top-right-radius:10px;
+border-top-left-radius:10px;
+}
+.head41{
+    height: 450px;
+    width: 350px;
+    background-color: rgb(201, 211, 211);
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 100px;
+}
+.head42{
+    height: 450px;
+    width: 350px;
+    background-color: rgb(201, 211, 211);
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 500px;
+    margin-top: -450px;
+}
+.head43{
+    height: 450px;
+    width: 350px;
+    background-color: rgb(201, 211, 211);
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 900px;
+    margin-top: -450px;
+}
+.head44{
+    height: 450px;
+    width: 350px;
+    background-color: rgb(201, 211, 211);
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.head45{
+    height: 450px;
+    width: 350px;
+    background-color: rgb(201, 211, 211);
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 500px;
+    margin-top: -450px;
+}
+.head46{
+    height: 450px;
+    width: 350px;
+    background-color: rgb(201, 211, 211);
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 900px;
+    margin-top: -450px;
+}
+#f3{
+    display: inline;
+    background-color: white;
+    padding: 5px;
+    border: 1PX solid black;
+}
+#f4{
+    display: inline;
+    background-color: white;
+    padding: 5px;
+    border: 1PX solid black;
+}
+.head5{
+    background-color: rgb(226, 229, 232);
+    margin-top: -20px;
+    height: 1200px;
+}
+.head47{
+    height: 390px;
+    width: 330px;
+    background-color: rgb(201, 211, 211);
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.head48{
+    height: 390px;
+    width: 330px;
+    background-color: rgb(201, 211, 211);
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 450px;
+    margin-top: -390px;
+}
+.head49{
+    height: 390px;
+    width: 330px;
+    background-color: rgb(201, 211, 211);
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 800px;
+    margin-top: -390px;
+}
+.head410{
+    height: 390px;
+    width: 330px;
+    background-color: rgb(201, 211, 211);
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 1150px;
+    margin-top: -390px;
+}

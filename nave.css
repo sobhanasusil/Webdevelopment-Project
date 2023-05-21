@@ -1,0 +1,242 @@
+.bg-light {
+    background-color: #858a90!important;
+}
+ .carousel-inner img {
+    width: 100%;
+    height: 100%;
+    /* margin-top: -171px */
+  }
+
+
+  .container-fluid{
+    padding-left: 0%;
+    padding-right: 0%;
+    margin-left: 0%;
+    margin-right: 0;
+    margin-top: 50px;
+  }
+  #wedo{
+
+
+    margin-top: 50px;
+  }
+
+  #slider{
+   padding-left: 0px;
+   padding-right: 0px;
+
+  }
+  
+#nav{
+
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+#car-img{
+  width: 50%;
+ 
+}
+
+.carousel-inner .carousel-item:nth-child(2) {
+  transform: scale(1.2); /* Increase the size of the center slide */
+  transition: transform 0.3s ease-in-out;
+}
+
+
+.diamond-tab {
+  position: relative;
+  width: 100px;
+  height: 100px;
+  background-color: #212529;
+  color: #fff;
+  transform: rotate(45deg);
+  text-align: center;
+  line-height: 100px;
+  cursor: pointer;
+  margin-top: 50px;
+ margin-left: 50px;
+}
+
+.diamond-tab.active {
+  background-color: #212529;
+  color: #fff;
+
+  margin-top: 50px;
+}
+
+.tab-content .tab-pane {
+  display: none;
+  padding: 10px;
+}
+
+.tab-content .tab-pane.active {
+  display: block;
+}
+h1 {
+  text-align: center;
+}
+
+form {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+label, input, textarea {
+  display: block;
+  margin-bottom: 10px;
+}
+
+textarea {
+  height: 100px;
+}
+
+button {
+  display: block;
+  margin: 10px auto;
+}
+
+.diamond-label{
+
+  transform: rotate(-45deg);
+  font-size: 14px;
+}
+
+.tab-box{
+  margin-top: 50px;
+  height: 100%;
+  width: 100%;
+  border: 2px dotted rgb(230, 223, 223);
+
+}
+#whatWeDo-Container{
+color: #fff;
+  background-color: #333333;
+  text-align: center;
+  justify-content: center;
+
+}
+h2{
+  text-align: start;
+}
+
+/* card */
+
+.card {
+  width: 300px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  overflow: hidden;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  color: #000;
+  margin-left: 50px;
+  
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+}
+
+.card-content {
+  padding: 10px;
+}
+
+.card-content h3 {
+  margin-top: 0;
+}
+
+.card-content p {
+  margin-bottom: 10px;
+}
+
+.card-content .btn {
+  display: inline-block;
+  padding: 5px 10px;
+  background-color: #f44336;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 3px;
+}
+#buyCar{
+   
+  margin-top: 50px;
+ 
+
+ 
+}
+#diaHo:hover{
+
+  border: 2px dotted white;
+  background-color: #f44336;
+}
+
+.hori-box{
+background-color: #000;
+height: 40px;
+border: 2px solid white;
+margin-top: 50px;
+
+}
+h2{
+  font-size: 18px;
+    padding: 8px;
+    color: #fff;
+}
+#skills{
+  width: auto;
+  height: auto;
+  font-size: 60px;
+  font-weight: 400;
+  font-weight: bold;
+  font-size: 24;
+}
+#skills1{
+
+align-items: center;
+  margin-top: 50px;
+}
+.touch{
+  text-align: center;
+  margin-top: 100px;
+  font-weight:bolder;
+  font-size: xx-large;
+}
+#kepTouch-box{
+border: #ccc 2px solid;
+  margin-top: 60px;
+}
+.txt-box{
+
+  padding: 20px;
+}
+.snd{
+  width: 80%;
+}
+
+
+
+.cont-outer-box{
+
+  background-color: #000;
+  height: 20%;
+}
+
+.cont-inner-box .cont-outer-box {
+  width: 90%;
+  max-width: 770px;
+  padding: 52px;
+  background: rgba(209, 197, 197, 0.05);
+  color: #e7e7e7;
+  margin: 0 auto;
+}
+
+/* footer */
+
+.text-muted{
+  height: 100px;
+  text-align: center;
+  padding: 20px;
+  font-weight: 700;
+  color:#767676;
+}
